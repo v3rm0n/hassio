@@ -1,9 +1,6 @@
 # Shairport Sync addon for Home Assistant
 
-[![GitHub Release][releases-shield]][releases]
-![Project Stage][project-stage-shield]
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE)
+[![GitHub Release][releases-shield]][releases] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield] [![License][license-shield]](LICENSE)
 
 ## About
 
